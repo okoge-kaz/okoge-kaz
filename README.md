@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [senkyo.inc](https://smartsenkyo.com/) (software engineer intern), and [pixiv](https://www.pixiv.co.jp/)(engineer (part-time))
 - 🌱 I’m currently learning Computer Science at Tokyo Institute of Technology
 
+- Languages:   
+  C++, Python3, TypeScript, Java, Go, Rust
+
+- AtCoder: https://atcoder.jp/users/kaz20
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=okoge-kaz&theme=vue-dark&show_icons=true)](https://github.com/okoge-kaz/github-readme-stats)
 
