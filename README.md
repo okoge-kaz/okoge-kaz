@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [senkyo.inc](https://smartsenkyo.com/) (software engineer intern), and [pixiv](https://www.pixiv.co.jp/)(engineer (part-time))
 - 🌱 I’m currently learning Computer Science at Tokyo Institute of Technology
 
 - Languages:   
