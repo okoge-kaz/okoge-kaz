@@ -6,10 +6,23 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Computer Science at Tokyo Institute of Technology
+- 🌱 I’m currently learning Computer Science at Tokyo Institute of Technology (B3)
 
 - Languages:   
-  C++, Python3, TypeScript, Java, Go, Rust
+  - Algorithm
+    - C++
+    - Python3
+  - Web
+    - JavaScript
+    - TypeScript (React, Next.js)
+  - Server
+    - Golang (Gin)
+    - Python3 (Django)
+    - Ruby (Rails)
+  - Hard
+    - Verilog
+  
+  
 
 - AtCoder: https://atcoder.jp/users/kaz20
 
