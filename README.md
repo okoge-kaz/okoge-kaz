@@ -12,6 +12,13 @@ Here are some ideas to get you started:
   - Algorithm
     - C++
     - Python3
+    - Java
+  - Software Development
+    - C++
+    - Java
+    - Go
+    - Rust
+    - Python3
   - Web
     - JavaScript
     - TypeScript (React, Next.js)
