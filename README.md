@@ -28,8 +28,6 @@ Here are some ideas to get you started:
     - Ruby (Rails)
   - Hard
     - Verilog
-  
-  
 
 - AtCoder: https://atcoder.jp/users/kaz20
 - LinkedIn: https://www.linkedin.com/in/kazuki-fujii/
