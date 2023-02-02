@@ -23,8 +23,8 @@ Here are some ideas to get you started:
     - JavaScript
     - TypeScript (React, Next.js)
   - Server
-    - Golang (Gin)
-    - Python3 (Django)
+    - Golang (Gin, echo)
+    - Python3 (Django, FastAPI)
     - Ruby (Rails)
   - Hard
     - Verilog
