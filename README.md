@@ -28,6 +28,3 @@ Here are some ideas to get you started:
     - Ruby (Rails)
   - Hard
     - Verilog
-
-- LinkedIn: https://www.linkedin.com/in/kazuki-fujii/
-
