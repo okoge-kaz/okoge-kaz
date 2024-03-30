@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Computer Science at Tokyo Institute of Technology (B4)
+- 🌱 I’m currently learning Computer Science at Tokyo Institute of Technology (M1)
 
 - Languages:   
   - Algorithm
