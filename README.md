@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a first-year Master's student working at the intersection of HPC and Machine Learning. 
+I'm a second-year Master's student working at the intersection of HPC and Machine Learning. 
 My research focuses on distributed training of large models and low-precision training. 
 Also, I am in charge of the maintenance of Pre-training Library for LLMs and conducting experiments on training LLMs. 
 
