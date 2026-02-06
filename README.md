@@ -11,7 +11,7 @@ I am a core contributor to the **[Swallow Project](https://swallow-llm.github.io
 
 #### 🔎 Seeking Opportunities
 **I am actively looking for Research Internship opportunities in the US**
-If you are interested in my work on LLM/VLA systems and low-precision training, please reach out!
+If you are interested in my work on LLM systems and low-precision training, please reach out!
 
 - 🌐 **Website:** https://okoge-kaz.github.io/
 - 🎓 **Google Scholar:** [Citations Profile](https://scholar.google.co.jp/citations?user=jHXLs2wAAAAJ)
