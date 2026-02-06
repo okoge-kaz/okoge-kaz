@@ -1,11 +1,19 @@
 ### Hi there 👋
 
-I'm a second-year Master's student working at the intersection of HPC and Machine Learning. 
-My research focuses on distributed training of large models and low-precision training. 
-Also, I am in charge of the maintenance of Pre-training Library for LLMs and conducting experiments on training LLMs. 
+I am an **Incoming PhD Student** at **Institute of Science Tokyo** (formerly Tokyo Tech), starting in April 2026.
+My research lies at the intersection of **HPC and Machine Learning**, specifically focusing on **distributed training** and **low-precision training** (FP8/NVFP4) for Large Language Models.
 
-I am a core contributor of [Swallow Project](https://swallow-llm.github.io/index.en.html) which is a Japanese LLM development initiative.
+I am a core contributor to the **[Swallow Project](https://swallow-llm.github.io/index.en.html)**, a Japanese LLM development initiative, where I maintain the pre-training library and lead large-scale training experiments.
 
-- Website: https://okoge-kaz.github.io/
-- Google Scholar: https://scholar.google.co.jp/citations?user=jHXLs2wAAAAJ
-- LinkedIn: https://www.linkedin.com/in/kazuki-fujii
+#### 🔥 News & Updates
+- **[Mar 2026]** I will be presenting **Swallow LLM** at **NVIDIA GTC 2026** in San Jose! 🗣️
+- **[Jan 2026]** My paper *"Rewriting Pre-Training Data Boosts LLM Performance in Math and Code"* has been accepted to **ICLR 2026**! 🎉
+
+#### 🔎 Seeking Opportunities
+**I am actively looking for Research Internship opportunities in the US**
+If you are interested in my work on LLM/VLA systems and low-precision training, please reach out!
+
+- 🌐 **Website:** https://okoge-kaz.github.io/
+- 🎓 **Google Scholar:** [Citations Profile](https://scholar.google.co.jp/citations?user=jHXLs2wAAAAJ)
+- 💼 **LinkedIn:** [kazuki-fujii](https://www.linkedin.com/in/kazuki-fujii)
+- 🐦 **X (Twitter):** [@okoge_kaz](https://twitter.com/okoge_kaz)
