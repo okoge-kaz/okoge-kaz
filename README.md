@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I am an **Incoming PhD Student** at **Institute of Science Tokyo** (formerly Tokyo Tech), starting in April 2026.
+I am a **PhD Student** at **Institute of Science Tokyo** (formerly Tokyo Tech).
 My research lies at the intersection of **HPC and Machine Learning**, specifically focusing on **distributed training** and **low-precision training** (FP8/NVFP4) for Large Language Models.
 
 I am a core contributor to the **[Swallow Project](https://swallow-llm.github.io/index.en.html)**, a Japanese LLM development initiative, where I maintain the pre-training library and lead large-scale training experiments.
 
 #### 🔥 News & Updates
-- **[Mar 2026]** I will be presenting **Swallow LLM** at **NVIDIA GTC 2026** in San Jose! 🗣️
 - **[Jan 2026]** My paper *"Rewriting Pre-Training Data Boosts LLM Performance in Math and Code"* has been accepted to **ICLR 2026**! 🎉
 
 #### 🔎 Seeking Opportunities
