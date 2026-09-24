@@ -15,4 +15,3 @@ If you are interested in my work on LLM systems and low-precision training, plea
 - 🌐 **Website:** https://okoge-kaz.github.io/
 - 🎓 **Google Scholar:** [Citations Profile](https://scholar.google.co.jp/citations?user=jHXLs2wAAAAJ)
 - 💼 **LinkedIn:** [kazuki-fujii](https://www.linkedin.com/in/kazuki-fujii)
-- 🐦 **X (Twitter):** [@kazukifujii](https://x.com/kazukifujii)
