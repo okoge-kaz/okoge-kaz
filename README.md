@@ -4,7 +4,7 @@ I am **Kazuki Fujii (藤井 一喜)**, a **PhD student** in the **[Rio Yokota La
 I am a core contributor to the **[Swallow Project](https://swallow-llm.github.io/index.en.html)**, leading the development of open Japanese-English bilingual LLMs.
 
 My research lies at the intersection of **HPC and Machine Learning**, focusing on **large-scale distributed training** and **low-precision optimization (FP8/NVFP4)** using **Megatron-LM** and **TransformerEngine**.
-I also study **data-centric approaches to improving LLM reasoning**, including rewriting pre-training data for Math and Code. My research interests include continual pre-training, diffusion language models, and reinforcement learning for LLMs.
+I also study **data-centric approaches to improving LLM reasoning**, including rewriting pre-training data for Math and Code. My research interests include continual pre-training, **Agentic RL**, and **hardware-aware model architectures**.
 
 #### 🔥 News & Updates
 
