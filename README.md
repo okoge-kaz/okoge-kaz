@@ -13,12 +13,9 @@ I also study **data-centric approaches to improving LLM reasoning**, including r
 - **[Jun–Sep 2026]** I was a **PhD intern at NVIDIA Santa Clara**, working on **SWE-RL and Async RL**.
 - **[Jan 2026]** My paper *"Rewriting Pre-Training Data Boosts LLM Performance in Math and Code"* was accepted to **ICLR 2026**! 🎉
 
-#### 🔗 Links & Contact
+#### 🔗 Links
 
 - 🌐 **Website:** https://okoge-kaz.github.io/
 - 📄 **CV:** [Curriculum Vitae](https://okoge-kaz.github.io/cv.pdf)
-- 📚 **Publications:** [Publication List](https://okoge-kaz.github.io/publications/)
-- ✍️ **Blog:** [English](https://okoge-kaz.github.io/blog/) / [Japanese](https://zenn.dev/kaz20)
 - 🎓 **Google Scholar:** [Citations Profile](https://scholar.google.co.jp/citations?user=jHXLs2wAAAAJ&hl=en)
 - 💼 **LinkedIn:** [kazuki-fujii](https://www.linkedin.com/in/kazuki-fujii/)
-- 📫 **Contact:** kazuki.fujii [at] rio.scrc.iir.isct.ac.jp
